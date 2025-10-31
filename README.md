@@ -1,5 +1,6 @@
 # ¡Bienvido a mi espacio en GitHub!🚀
-<br><br>SOBRE MÍ👋<br>💻 Apasionado de la informática, las redes y la seguridad digital<br>🪟 Fan de Windows y entusiasta de Linux 🐧<br>🛠 Experiencia en configurar y montar ordenadores y servidores, así como en la gestión de servicios (SSH, DNS, DHCP, web, correo, bases de datos, VPN)<br>🎯Mi objetivo es ayudar a las personas a navegar de forma segura y prevenir ataques de hackers y mejorando la seguridad digital<br>💬Si tienes dudas, ¡no dudes en contactarme!
+# SOBRE MÍ 👋
+<br>💻 Apasionado de la informática, las redes y la seguridad digital<br>🪟 Fan de Windows y entusiasta de Linux 🐧<br>🛠 Experiencia en configurar y montar ordenadores y servidores, así como en la gestión de servicios (SSH, DNS, DHCP, web, correo, bases de datos, VPN)<br>🎯Mi objetivo es ayudar a las personas a navegar de forma segura y prevenir ataques de hackers y mejorando la seguridad digital<br>💬Si tienes dudas, ¡no dudes en contactarme!
 
 
 # 💻 Tech Stack:
